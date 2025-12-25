@@ -96,7 +96,7 @@ Risk increases if users reuse passwords or enter card details.
 **Claimed Service:** Bank of America  
 **Email Theme:** New device login + suspicious transactions  
 **Screenshot:**  
-`[Insert image link here]`
+![Bank of America Phishing Email](https://drive.google.com/uc?export=view&id=1NU_9vcvFNdNomTzpfiF9y49Ml5SrYGe2)
 
 ### Sender Manipulation
 - Uses a bank-like sender name
@@ -149,8 +149,3 @@ All samples are used strictly for educational and research purposes.
 No real credentials were submitted during analysis.
 
 ---
-
-## Screenshots & Evidence
-- Sample 1 Screenshot: `[Insert link here]`
-- Sample 2 Screenshot: `[Insert link here]`
-- Sample 3 Screenshot: `[Insert link here]`
