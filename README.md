@@ -60,7 +60,7 @@ This targets a password manager account, which could expose multiple credentials
 **Claimed Service:** Netflix  
 **Email Theme:** Billing issue / account on hold  
 **Screenshot:**  
-`[Insert image link here]`
+![Netflix Phishing Email](https://drive.google.com/uc?export=view&id=1Eq9Ks1oeVbiqgcvB92tMtgVtLcnx8NYh)
 
 ### Sender Manipulation
 - Netflix branding and layout closely mimicked
