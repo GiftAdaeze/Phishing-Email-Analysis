@@ -42,9 +42,8 @@ For each phishing email, the following were analyzed:
 - Generic greeting: *“Dear LastPass User”*
 - External link claiming to be a “secure website”
 
-### Risk Level
+### Risk Level:
 **High**
-
 This targets a password manager account, which could expose multiple credentials if compromised.
 
 ### Why This Would Fool an Average User
@@ -78,9 +77,8 @@ This targets a password manager account, which could expose multiple credentials
 - External payment update link
 - Sense of urgency without specific billing details
 
-### Risk Level
+### Risk Level:
 **Medium to High**
-
 Risk increases if users reuse passwords or enter card details.
 
 ### Why This Would Fool an Average User
@@ -114,9 +112,8 @@ Risk increases if users reuse passwords or enter card details.
 - Generic greeting: *“Dear account holder”*
 - Suspicious password reset link
 
-### Risk Level
+### Risk Level:
 **Very High**
-
 Targets direct financial accounts and credentials.
 
 ### Why This Would Fool an Average User
