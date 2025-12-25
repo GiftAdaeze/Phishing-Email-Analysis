@@ -23,7 +23,7 @@ For each phishing email, the following were analyzed:
 **Claimed Service:** LastPass  
 **Email Theme:** Security breach notification  
 **Screenshot:**  
-`[Insert image link here]`
+![LastPass Phishing Email](https://drive.google.com/uc?export=view&id=1LkcY28YfrGdrPfBbr-ryRCKlPwsxV2h2)
 
 ### Sender Manipulation
 - Sender name appears as **LastPass**
